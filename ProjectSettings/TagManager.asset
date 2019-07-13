@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moneda
+  - Enemy
+  - ScreenShake
+  - Potion
+  - GAMEOVER
+  - GuiaTxt
+  - Potion2
+  - Coin2
+  - Coin3
+  - Coin4
+  - GuiaTxt2
+  - objective
+  - Flowers
+  - Potion3
+  - Potion4
+  - Potion5
+  - Potion6
+  - Potion7
+  - SceneDeco
+  - Boss
+  - BadProjectile
+  - Cursor
+  - MenuCursor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Coin
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3427332839
+    locked: 0
+  - name: Items
+    uniqueID: 1715942335
+    locked: 0
+  - name: Recursos_Mapa
+    uniqueID: 1551333465
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2924686407
+    locked: 0
